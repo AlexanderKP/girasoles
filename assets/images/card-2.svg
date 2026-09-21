@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff9df"/>
+      <stop offset="1" stop-color="#fff0d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="40" fill="url(#bg)"/>
+  <circle cx="400" cy="255" r="118" fill="#ffcd4d"/>
+  <circle cx="400" cy="255" r="48" fill="#593c17"/>
+  <g fill="#ffda47">
+    <ellipse cx="400" cy="89" rx="24" ry="66"/>
+    <ellipse cx="400" cy="421" rx="24" ry="66"/>
+    <ellipse cx="234" cy="255" rx="66" ry="24"/>
+    <ellipse cx="566" cy="255" rx="66" ry="24"/>
+    <ellipse cx="285" cy="140" rx="24" ry="66" transform="rotate(-45 285 140)"/>
+    <ellipse cx="515" cy="140" rx="24" ry="66" transform="rotate(45 515 140)"/>
+    <ellipse cx="285" cy="370" rx="24" ry="66" transform="rotate(45 285 370)"/>
+    <ellipse cx="515" cy="370" rx="24" ry="66" transform="rotate(-45 515 370)"/>
+  </g>
+  <path d="M400 370v205" stroke="#258647" stroke-width="18" stroke-linecap="round"/>
+  <path d="M400 440c-56-20-83-49-90-82 53 7 87 30 105 64" fill="#2c9a4f"/>
+  <path d="M400 492c56-20 83-49 90-82-53 7-87 30-105 64" fill="#2c9a4f"/>
+  <text x="400" y="690" text-anchor="middle" font-size="48" fill="#7c5815" font-family="Georgia">Eres un rayito de sol</text>
+</svg>
