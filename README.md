@@ -1,3 +1,0 @@
-# Girasoles...
-
-Author: AKPonte System
